@@ -1,7 +1,9 @@
 
 # Soupe poireau, pommes de terres
 
-## Ingredients:
+
+## Ingrédients
+
 
 * 1 poireau
 * 2 pommes de terres
