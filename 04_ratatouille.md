@@ -50,4 +50,29 @@ Quand l'eau s'est bien évaporé et que les légumes baignent la sauce tomate, c
 Une bonne ratatouille s'est un peu de la compote de légume.
 
 
+________
+
+Ratatouille façon chef
+
+# Ingrédients
+
+* 4 tomates moyennes
+* 4 poivrons (2 jaunes/2 rouge)
+* Courgettes
+* Aubergines
+* 2 gousses d'ails
+
+1. émincé de l'oignon et le faire revenir à la poele.
+
+2. faire cuire les tomates en petits morceaux en ayant au préalable trouvé un moyen d'enlever la peau.
+
+3. Couper en petit morceau les aubergines, les courgettes, poivrons. 
+Les faire cuire dans des poeles séparéments.
+
+
+4. dans la cocotte mettre les oignons transparent mais pas brulé au fond, courgettes, poivrons, aubergines, ajouter de gousse d'ail entière avce la peau, et la sauce tomate.
+
+5. mélanger un peu sans abimer les légumes
+
+6. Au four, une heure ou deux à 145°C
 
