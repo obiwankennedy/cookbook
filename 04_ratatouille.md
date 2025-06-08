@@ -1,4 +1,4 @@
-La ratatouille à la façon de Renaud pour une gargouille italienne:
+# Recette vite fait!
 
 ![ratatouille.png](ratatouille.jpg)
 
@@ -52,25 +52,27 @@ Une bonne ratatouille s'est un peu de la compote de légume.
 
 ________
 
-Ratatouille façon chef
+# Ratatouille - façon chef
 
-# Ingrédients
+## Ingrédients
 
 * 4 tomates moyennes
-* 4 poivrons (2 jaunes/2 rouge)
-* Courgettes
-* Aubergines
+* 2 poivrons (1 jaunes/1 rouge)
+* 4 Courgettes (2 vertes/2 jaunes)
+* 2 Aubergines
 * 2 gousses d'ails
+
+## Préparation
 
 1. émincé de l'oignon et le faire revenir à la poele.
 
 2. faire cuire les tomates en petits morceaux en ayant au préalable trouvé un moyen d'enlever la peau.
 
 3. Couper en petit morceau les aubergines, les courgettes, poivrons. 
-Les faire cuire dans des poeles séparéments.
+Les faire cuire dans des poeles séparéments. Ne pas utilisez d’outils pour remuer, juste des mouvements de la poele.
 
 
-4. dans la cocotte mettre les oignons transparent mais pas brulé au fond, courgettes, poivrons, aubergines, ajouter de gousse d'ail entière avce la peau, et la sauce tomate.
+4. dans la cocotte mettre les oignons transparent mais pas brulé au fond, courgettes, poivrons, aubergines, ajouter de gousse d'ail entière avec la peau, et la sauce tomate.
 
 5. mélanger un peu sans abimer les légumes
 
