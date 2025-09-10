@@ -33,4 +33,19 @@
 8. Sortir la tarte du four la couvrir avec une grande assiette pendant 3-4 minutes.
 9. Retourner le tout, la tarte est démoulée.
 
+# Version de luxe
+
+https://www.youtube.com/watch?v=WVtG9m8G1II&t=1s
+
+## Caramel 
+
+150 g de sucre
+
+
+## Les pommes
+
+1. Couper les en quartiers
+2. Gousse de vanilles
+3. Eau + beurre (100g) + sucre (100g)
+4. Pocher les pommes (10mins)
 
